@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jason\\Documents\\Repositories\\Premier_pas\\Application\\Application\\Application.csproj",
-      "projectName": "Application",
-      "projectPath": "C:\\Users\\jason\\Documents\\Repositories\\Premier_pas\\Application\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\jason\\Documents\\Repositories\\Premier_pas\\Application\\Application\\Applications.csproj",
+      "projectName": "Applications",
+      "projectPath": "C:\\Users\\jason\\Documents\\Repositories\\Premier_pas\\Application\\Application\\Applications.csproj",
       "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jason\\Documents\\Repositories\\Premier_pas\\Application\\Application\\obj\\",
       "projectStyle": "PackageReference",
